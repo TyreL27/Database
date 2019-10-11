@@ -1,7 +1,7 @@
 # Database
 <html>
   <body>
-    <img src="mysql.jps">
+    <a href="https://hizliresim.com/p5V22z"><img src="https://i.hizliresim.com/p5V22z.jpg"></a>
     
   </body>  
   
